@@ -152,7 +152,7 @@ def Normalised_MP_plotter_normal(n,d,c,number):
 # c = shape parameter
 # number = number of RBF matrices generated
 # usuallly I use small values for n and d, and ~500 iterations.
-# k=2 here and sigma = d/(d+2), we can just use 1 if you like.
+# k=2 here and sigma = 1/(d+2), we can just use 1 if you like.
 #####################################################################
 def MP_plotter_ball(n,d,c,number):
 
