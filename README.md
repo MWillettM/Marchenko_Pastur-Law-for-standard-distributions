@@ -5,4 +5,4 @@ Here we use the multiquadric and generate our data from the multivariate normal,
 
 We also include code to check the eigenvalues from the matrix, and from the approximate matrix we use to generate the Marchenko Pastur distribution.
 
-Please scroll to the bottom and uncomment the 4 examples.
+Please scroll to the bottom and uncomment for each of the 4 examples.
